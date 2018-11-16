@@ -111,15 +111,17 @@ header h2 {
   background: #25A2DC; /* Blue */
 } */
 
-/* ABOUT =========================== */
+ABOUT =========================== */
 #about {
   padding: 100px 0px;
 }
 
 #about img {
   width: 50%;
-  margin: 0 auto;
+}
 
+.imagewrapper {
+  text-align: center;
 }
 
 #about p.caption {
